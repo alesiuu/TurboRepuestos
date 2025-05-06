@@ -1,0 +1,17 @@
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\bin\Debug\net7.0-windows\INVENTARIO REPUESTOS.exe
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\bin\Debug\net7.0-windows\INVENTARIO REPUESTOS.deps.json
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\bin\Debug\net7.0-windows\INVENTARIO REPUESTOS.runtimeconfig.json
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\bin\Debug\net7.0-windows\INVENTARIO REPUESTOS.dll
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\bin\Debug\net7.0-windows\INVENTARIO REPUESTOS.pdb
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\INVENTARIO REPUESTOS.vbproj.AssemblyReference.cache
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\INVENTARIO_REPUESTOS.Form1.resources
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\INVENTARIO REPUESTOS.vbproj.GenerateResource.cache
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\INVENTARIO REPUESTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\INVENTARIO REPUESTOS.AssemblyInfoInputs.cache
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\INVENTARIO REPUESTOS.AssemblyInfo.vb
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\INVENTARIO REPUESTOS.vbproj.CoreCompileInputs.cache
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\INVENTARIO REPUESTOS.dll
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\refint\INVENTARIO REPUESTOS.dll
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\INVENTARIO REPUESTOS.pdb
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\INVENTARIO REPUESTOS.genruntimeconfig.cache
+C:\Users\Alessandro Davila\OneDrive - uph.edu.hn\Escritorio\PROYECTO_INGIENERIA_SOFTWARE\INVENTARIO REPUESTOS\obj\Debug\net7.0-windows\ref\INVENTARIO REPUESTOS.dll
